@@ -10,5 +10,15 @@ WordPress requires a database to store page and configuration data.  Google Clou
 ## Architecture
 ![Architecture Diagram](./architecture.drawio.svg)
 
+## Component Details
+[Cloud CDN](cloud-cdn.md)<br/>
+[Cloud Armor](cloud-armor.md)<br/>
+[Cloud Load Balancing](cloud-load-balancing.md)<br/>
+[Google App Engine](google-app-engine.md)<br/>
+[Cloud SQL for MySQL](cloud-sql.md)<br/>
+[Cloud Storage](cloud-storage.md)<br/>
+[Cloud Storage for SQL Backup](cloud-backup-storage.md)<br/>
+
+
 ## References
 [WordPress on Google Cloud](https://cloud.google.com/WordPress/)
