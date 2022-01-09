@@ -21,4 +21,4 @@ WordPress requires a database to store page and configuration data.  Google Clou
 
 
 ## References
-[WordPress on Google Cloud](https://cloud.google.com/WordPress/)
+[WordPress on Google Cloud](https://cloud.google.com/wordpress/)
